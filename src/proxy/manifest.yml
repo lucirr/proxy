@@ -3,6 +3,6 @@ applications:
   - name: proxy
     memory: 32M
     disk_quota: 32M
-    buildpack: go_buildpack
+    buildpack: https://github.com/cloudfoundry/go-buildpack
     env:
       GOPACKAGENAME: proxy
