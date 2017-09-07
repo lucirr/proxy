@@ -1,7 +1,7 @@
 package main
 
 import (
-	"example-apps/proxy/handlers"
+	"proxy/handlers"
 	"fmt"
 	"log"
 	"net/http"

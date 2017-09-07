@@ -1,7 +1,7 @@
 package handlers_test
 
 import (
-	"example-apps/proxy/handlers"
+	"proxy/handlers"
 	"net/http"
 	"net/http/httptest"
 
